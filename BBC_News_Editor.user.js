@@ -7,7 +7,7 @@
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js
 // ==/UserScript==
 
-var headlineText = "This is the text of the headline";
+var headlineText = "This is the text of the headlines";
 var theHeadlineIsALinkToThis = "http://www.google.co.uk";
 var headlineSubText = "This is where the text that goes below your headline lives. It should be about forty words to fill up the paragraph in a realistic way. Like this sentence is, isn't it amazing! No line breaks in the .js file please.";
 
